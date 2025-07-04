@@ -1,5 +1,6 @@
-PyQt6
-PyMuPDF
-openai
-sentence-transformers
-faiss-cpu  # or chromadb
+PyQt6==6.6.1
+PyMuPDF==1.23.22
+requests==2.31.0
+python-dotenv==1.0.1
+pyarmor                
+nuitka               
